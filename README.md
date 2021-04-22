@@ -1,13 +1,16 @@
-# 0x00. Lockboxes
+# Holberton School Interview Preparation
+
+## Description
 
 ## Resources:books:
-Read or watch:
+
 
 ---
 ## Learning Objectives:bulb:
-What you should learn from this project:
+
 
 ---
+
 ---
 
 ## Author
