@@ -33,7 +33,7 @@ def minOperations(n):
         return 0
 
     ans = 0
-    gcds = []
+    gcds = [n]
 
     while n > 1:
         gcds.append(int(gcd(n)))
